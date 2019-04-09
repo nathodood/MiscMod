@@ -1,0 +1,25 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern": [
+			"ll",
+			"ls",
+			" s"
+	],
+	
+	"key": {
+		"l": {
+			"item": "minecraft:dye",
+			"data": 4
+		},
+		
+		"s": {
+			"item": "minecraft:stick"
+		}
+	},
+	
+	"result": {
+		"item": "miscmod:lapis_axe",
+		"count": 1
+	}
+}

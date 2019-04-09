@@ -1,0 +1,24 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern": [
+			"r",
+			"r",
+			"s"
+	],
+	
+	"key": {
+		"r": {
+			"item": "minecraft:redstone"
+		},
+		
+		"s": {
+			"item": "minecraft:stick"
+		}
+	},
+	
+	"result": {
+		"item": "miscmod:redstone_sword",
+		"count": 1
+	}
+}

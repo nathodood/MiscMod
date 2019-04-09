@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern": [
+			"r r",
+			"r r"
+	],
+	
+	"key": {
+		"r": {
+			"item": "minecraft:redstone"
+		}
+	},
+	
+	"result": {
+		"item": "miscmod:redstone_boots",
+		"count": 1
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern": [
+			"eee",
+			"e e"
+	],
+	
+	"key": {
+		"e": {
+			"item": "minecraft:emerald"
+		}
+	},
+	
+	"result": {
+		"item": "miscmod:emerald_helmet",
+		"count": 1
+	}
+}

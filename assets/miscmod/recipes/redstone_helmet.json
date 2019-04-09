@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern": [
+			"rrr",
+			"r r"
+	],
+	
+	"key": {
+		"r": {
+			"item": "minecraft:redstone"
+		}
+	},
+	
+	"result": {
+		"item": "miscmod:redstone_helmet",
+		"count": 1
+	}
+}

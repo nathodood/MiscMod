@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern": [
+			"lll",
+			"l l"
+	],
+	
+	"key": {
+		"l": {
+			"item": "minecraft:dye",
+			"data": 4
+		}
+	},
+	
+	"result": {
+		"item": "miscmod:lapis_helmet",
+		"count": 1
+	}
+}

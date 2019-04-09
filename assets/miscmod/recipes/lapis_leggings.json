@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern": [
+			"lll",
+			"l l",
+			"l l"
+	],
+	
+	"key": {
+		"l": {
+			"item": "minecraft:dye",
+			"data": 4
+		}
+	},
+	
+	"result": {
+		"item": "miscmod:lapis_leggings",
+		"count": 1
+	}
+}
