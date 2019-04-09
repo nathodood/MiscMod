@@ -1,0 +1,16 @@
+[
+{
+  "modid": "miscmod",
+  "name": "Miscellaneous Mod",
+  "description": "Adds random stuff",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Nathodood"],
+  "credits": "Just me because I had no help (I did watch tutorials because I didn't know how some of the 1.12 crap worked versus 1.7)",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
