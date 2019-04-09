@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "miscmod:blocks/one_hundred_tnt_bottom",
+        "top": "miscmod:blocks/one_hundred_tnt_top",
+        "side": "miscmod:blocks/one_hundred_tnt_side"
+    }
+}

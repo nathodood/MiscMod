@@ -1,0 +1,6 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "miscmod:items/tools/redstone/redstone_axe"
+	}
+}

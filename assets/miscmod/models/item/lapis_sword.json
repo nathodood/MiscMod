@@ -1,0 +1,6 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "miscmod:items/tools/lapis/lapis_sword"
+	}
+}

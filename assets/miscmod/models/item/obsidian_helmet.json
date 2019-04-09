@@ -1,0 +1,6 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "miscmod:items/armor/obsidian/obsidian_helmet"
+	}
+}
